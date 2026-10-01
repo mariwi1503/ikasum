@@ -80,7 +80,7 @@ export default function LoginForm() {
       </div>
 
       {/* Demo Credentials Info */}
-      <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
+      {/* <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
         <h3 className="font-semibold text-blue-900 mb-2">Demo Login Credentials:</h3>
         <div className="text-sm text-blue-800 space-y-1">
           <div><strong>Super Admin:</strong> admin / admin123</div>
@@ -88,7 +88,7 @@ export default function LoginForm() {
           <div><strong>Sekretaris:</strong> sekretaris / sekretaris123</div>
           <div><strong>Bendahara:</strong> bendahara / bendahara123</div>
         </div>
-      </div>
+      </div> */}
 
       {/* Error Message */}
       {error && (
